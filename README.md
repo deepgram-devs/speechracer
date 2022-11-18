@@ -1,6 +1,8 @@
 # Speech Racer
 A game to test your speech accuracy and speed.
 
+Try it out at speechracer.com
+
 ### Getting started
 - clone the repo
 - update with your api key

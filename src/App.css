@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.matched {
+    color: rgb(0, 180, 0);
+}
+
+.selected {
+    box-shadow: 4px 4px 3px rgba(0, 0, 0, 0.7);
+}

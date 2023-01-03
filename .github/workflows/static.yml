@@ -33,6 +33,7 @@ jobs:
       - name: build
         env:
            CI: false
+           DG_KEY: ${{ secrets.DG_KEY }}
         run: |
           yarn
           yarn build
